@@ -1,0 +1,157 @@
+{
+  "poiList": [
+    {
+      "coordinate": {
+        "latitude": 48.1375407,
+        "longitude": 11.5819315
+      },
+      "state": "ACTIVE",
+      "type": "TAXI",
+      "distance": 0.0
+    },
+    {
+      "coordinate": {
+        "latitude": 48.1701356,
+        "longitude": 11.5749321
+      },
+      "state": "ACTIVE",
+      "type": "TAXI",
+      "distance": 0.0
+    },
+    {
+      "coordinate": {
+        "latitude": 48.13452503137053,
+        "longitude": 11.587275332253634
+      },
+      "state": "ACTIVE",
+      "type": "TAXI",
+      "distance": 213.4011688232422
+    },
+    {
+      "coordinate": {
+        "latitude": 48.138741064187165,
+        "longitude": 11.584667452296895
+      },
+      "state": "ACTIVE",
+      "type": "TAXI",
+      "distance": 196.90242826117696
+    },
+    {
+      "coordinate": {
+        "latitude": 48.175385110125106,
+        "longitude": 11.581230098392425
+      },
+      "state": "ACTIVE",
+      "type": "TAXI",
+      "distance": 48.1640625
+    },
+    {
+      "coordinate": {
+        "latitude": 48.1401547135761,
+        "longitude": 11.573378202826856
+      },
+      "state": "ACTIVE",
+      "type": "TAXI",
+      "distance": 294.4137878417969
+    },
+    {
+      "coordinate": {
+        "latitude": 48.1396443,
+        "longitude": 11.5885425
+      },
+      "state": "ACTIVE",
+      "type": "TAXI",
+      "distance": 0.0
+    },
+    {
+      "coordinate": {
+        "latitude": 48.1381528,
+        "longitude": 11.6152748
+      },
+      "state": "ACTIVE",
+      "type": "TAXI",
+      "distance": 0.0
+    },
+    {
+      "coordinate": {
+        "latitude": 48.1431241,
+        "longitude": 11.5878934
+      },
+      "state": "ACTIVE",
+      "type": "TAXI",
+      "distance": 0.0
+    },
+    {
+      "coordinate": {
+        "latitude": 48.138454244965736,
+        "longitude": 11.584693845102462
+      },
+      "state": "ACTIVE",
+      "type": "TAXI",
+      "distance": 8.55655574798584
+    },
+    {
+      "coordinate": {
+        "latitude": 48.176982846648116,
+        "longitude": 11.592400871528941
+      },
+      "state": "ACTIVE",
+      "type": "TAXI",
+      "distance": 273.0592424124943
+    },
+    {
+      "coordinate": {
+        "latitude": 48.1736502,
+        "longitude": 11.5968621
+      },
+      "state": "ACTIVE",
+      "type": "TAXI",
+      "distance": 0.0
+    },
+    {
+      "coordinate": {
+        "latitude": 48.14225332236888,
+        "longitude": 11.571069563022704
+      },
+      "state": "ACTIVE",
+      "type": "TAXI",
+      "distance": 244.74839782714844
+    },
+    {
+      "coordinate": {
+        "latitude": 48.14931,
+        "longitude": 11.5999917
+      },
+      "state": "ACTIVE",
+      "type": "TAXI",
+      "distance": 0.0
+    },
+    {
+      "coordinate": {
+        "latitude": 48.1548058,
+        "longitude": 11.6235951
+      },
+      "state": "ACTIVE",
+      "type": "TAXI",
+      "distance": 0.0
+    },
+    {
+      "coordinate": {
+        "latitude": 48.14167671046407,
+        "longitude": 11.569287660942994
+      },
+      "state": "ACTIVE",
+      "type": "TAXI",
+      "distance": 240.9385223388672
+    },
+    {
+      "coordinate": {
+        "latitude": 48.1667618,
+        "longitude": 11.5900034
+      },
+      "state": "ACTIVE",
+      "type": "TAXI",
+      "distance": 0.0
+    }
+  ]
+}
