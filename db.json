@@ -14,7 +14,7 @@
         "latitude": 48.1701356,
         "longitude": 11.5749321
       },
-      "state": "ACTIVE",
+      "state": "INACTIVE",
       "type": "TAXI",
       "distance": 0.0
     },
@@ -50,7 +50,7 @@
         "latitude": 48.1401547135761,
         "longitude": 11.573378202826856
       },
-      "state": "ACTIVE",
+      "state": "INACTIVE",
       "type": "TAXI",
       "distance": 294.4137878417969
     },
